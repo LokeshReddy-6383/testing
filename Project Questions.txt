@@ -1,0 +1,12 @@
+Project Questions
+
+1. what this project is about? what are we actually delivering?
+2. Whether the project to run on cloud/on-premises
+3. On which environment the project needs to run (Linux)
+4. The project is based on which language
+5. Have the developers implemented sonarqube 
+6. What are the different teams working on the project
+7. Do support is required for the project once delivered
+8. What database and version does the project needs to run
+9. What os and version required
+10. Is there any deadline
